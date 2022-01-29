@@ -1,39 +1,20 @@
-# TypeScript Frontend Engineer Assignment
+# Typescript Frontend Code Sample
 
-## 要求
+https://user-images.githubusercontent.com/11483306/151662865-4fbb8350-ee4d-4ee7-b601-e4e9125d310b.mov
 
-- 实现 demo.mov 中的效果
-- 封装为 `<Carousel>` 组件
-- 使用 React Hooks 实现，不能用 Class Component
-- 使用 TypeScript 实现
+## Features
 
-## 加分项
+- A sliding Banner
+- Encapsulate as `<Carousel>` component
+- Implenment by React Hooks, and without Class Component
+- Implenment by Typescript
+- CSS:styled-component
 
-- 单元测试
+## Test
 
-## 岗位职责
+- Jest
 
-- 根据产品交互稿构建⾼质量企业级 Web 应⽤
-- 技术栈: React + SASS
-- 在产品迭代中逐步积累技术框架与组件库
-- 根据业务需求适时地重构
-- 为 Pull Request 提供有效的代码审查建议
-- 设计并撰写固实的单元测试与集成测试
-- 与后端⼯程师协同交付产品
-
-## 要求
-
-- 三年以上技术相关工作经验
-- 能高效并高质量交付产品
-- 对业务逻辑有较为深刻的理解
-- 加分项
-  - 持续更新的技术博客
-  - 长期维护的开源项目
-  - 流畅阅读英文技术文档
-  - 对审美有一定追求
-  - 能力突出者可适当放宽年限
-
-## Create React App 信息
+## Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -41,7 +22,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm install`
+
+and next run:
+
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
